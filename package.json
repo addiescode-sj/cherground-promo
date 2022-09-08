@@ -72,7 +72,7 @@
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.0.1",
     "react-to-print": "^2.4.0",
-    "read-excel-file": "^4.0.5",
+    "read-excel-file": "^4.1.0",
     "recharts": "^1.8.5",
     "reflect-metadata": "^0.1.13"
   }
