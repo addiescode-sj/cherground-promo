@@ -62,7 +62,7 @@
     "html2canvas": "^1.0.0-rc.3",
     "inversify": "^5.0.1",
     "json2xlsx-export": "^1.2.2",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.5.1",
     "jspdf-autotable": "^3.2.4",
     "moment": "^2.24.0",
     "papaparse": "^5.1.1",
@@ -72,7 +72,7 @@
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.0.1",
     "react-to-print": "^2.4.0",
-    "read-excel-file": "^4.0.5",
+    "read-excel-file": "^5.5.1",
     "recharts": "^1.8.5",
     "reflect-metadata": "^0.1.13"
   }
